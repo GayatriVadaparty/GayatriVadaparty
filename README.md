@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Machine Learning and Artificial intelligence
 - 💞️ I’m looking to collaborate on some projects in Machine Learning
 - 📫 How to reach me gayatrivalp@gmail.com
+https://www.linkedin.com/in/gayatri-vadaparty-46ba50219
 - 👩‍💻 Check my techblog page...https://techdiary.hashnode.dev/
 <!---
 GayatriVadaparty/GayatriVadaparty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
