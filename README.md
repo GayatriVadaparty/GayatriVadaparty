@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GayatriVadaparty
 - 👀 I'm interested in Quantum Computing.
 - 🌱 I’m currently learning ML and AI
-- 💞️ I’m a Github Global Campus Student!
+- 😎 I’m a Github Global Campus Student!
 - 📫 How to reach me gayatrivalp@gmail.com
 https://www.linkedin.com/in/gayatri-vadaparty-46ba50219
 <!---
